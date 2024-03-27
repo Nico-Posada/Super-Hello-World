@@ -1,0 +1,5 @@
+#/*<?php ob_start();?>*/define print(a)printf(a);}
+#include<stdio.h>/*
+q='''*/
+main(){//'''#=;#<?php ob_end_clean();
+print("Hello World!\n");
